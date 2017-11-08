@@ -1,0 +1,1026 @@
+
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Poppins Light'), local('Poppins-Light'), url(https://fonts.gstatic.com/s/poppins/v1/01M8UnHoM7MaVdT1TD1pbiEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Poppins Light'), local('Poppins-Light'), url(https://fonts.gstatic.com/s/poppins/v1/MEXWGbc1EWORtBwy9fFeUiEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Poppins Light'), local('Poppins-Light'), url(https://fonts.gstatic.com/s/poppins/v1/D2gN9uyZ9Ucx1fJ1Fhb7s_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v1/gG8m82oGcrBJF727xHU04fY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v1/F4YWuALHubF63LLQPw0rMfY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v1/HLBysyo0MQBO_7E-DWLwzg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v1/2fCJtbhSlhNNa6S2xlh9GyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v1/UGh2YG8gx86rRGiAZYIbVyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v1/yQWaOD4iNU5NTY0apN-qj_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v1/BAM-XigHGVWzifDv8-EC1SEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v1/9VWMTeb5jtXkNoTv949NpSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v1/zO07Oxe3SOlw0l2YX2sdIfk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+
+body{ padding:0; margin:0; font-family:Arial}
+
+#paseo{width:100%;}
+#crosspromotion_box{ display:block}
+#patemplateseo{display:none}
+
+/*#ebaytemplate{background:#5174A4; width:100%; float:left;}*/
+#ebaytemplate{background:#fff; width:100%; float:left;}
+
+/*Template Bg*/
+.store_background{width: 100%;float:left; padding:13px 0; padding-top:0; margin:0;  text-align:center; font-size:12px; font-family: 'Poppins';font-weight:400;margin-bottom:10px; }
+.template_bgin{width:100%; height:100%; padding-top:13px;}
+
+
+.top_head{background:#eee; line-height:30px;}
+.top_headin{ width:1000px; margin:0 auto;}
+.top_headin div{ float:left;}
+.top_head h2:after{ content:"Welcome to our ebay store";}
+.top_head p:after{content:"FREE SHIPPING ON THOUSANDS OF STYLES";}
+.top_head h2{ display:block; float:left; padding:0; margin:0; width:100%; text-align:left; color:#333;  text-transform:uppercase; font-size:13px; font-weight:300;}
+.top_head p{ display:none;}
+
+.top_head a{ width:165px; padding:0 5px;float:right; text-decoration:none; color:#333; font-size:12px; padding-left:0; font-weight:300; }
+.top_head a:hover{background-color:#004a8b;transition: background-color 0.5s ease 0s, color 0.5s ease 0s, border-color 0.5s ease 0s !important; color:#fff;}
+
+.store_header_background{}
+/*Template width*/
+.template_center{ width:1000px; margin:0 auto;}
+.template_header{ width:100%; height:110px;}
+/*contect layout*/
+.template_content{  margin:0 auto;  vertical-align:top; padding:0;}
+.template_contentin{font-size:13px; width:100%; float:left; }
+/*content left*/
+.template_content_left{ width:220px; float:left;display:inline;}
+/*content right*/
+.template_content_right{  margin-left:235px;}
+
+.patemplate_bodyin{margin:0 auto;width:1000px;margin:0 auto; background:#eee; text-align:center;}
+
+#header {width:1000px;margin: 0px auto;padding: 0px !important;}
+
+/*Head Logo*/
+.template_header_our{ width:100%; float:left;text-align:left;}
+.template_header_logo{float:left; margin-top:10px; margin-left:0; text-align:left;}
+.template_header_logo img{border:none;}
+
+
+
+.template_nav_top{ width:440px; float:right; height:24px; line-height:24px;color:#fff; }
+.template_nav_top a{ padding:0 8px; margin-right:5px;  font-size:11px; color:#fff; text-decoration:none;}
+
+.template_nav_call{ position:absolute;bottom:-2px; left:45px; width:120px;color:#921419; text-shadow:0 1px 0 #fff;  }  
+.template_nav_address{ position:absolute;bottom:-2px; left:190px; width:420px; color:#921419; text-shadow:0 1px 0 #fff;  }
+
+
+.template_head_right{ float:right;  position:relative; display:block; text-align:right;}
+.template_head_right ul, .template_head_right ul li{ padding:0; margin:0; list-style-type:none;}
+.template_head_right ul{ margin-top:38px; float:right; }
+.template_head_right ul li{ float:left; line-height:13px; }
+.template_head_right ul li:last-child{ padding-right:0; border-right:none;}
+.template_head_right ul li a { font-size:14px; color:#333; text-decoration:none; background:#eee; font-weight:300;border-radius:4px; padding:3px 10px; margin-left:8px; line-height:34px; cursor:pointer; }
+.template_head_right ul li a:hover{ background-color:#004a8b;transition: background-color 0.5s ease 0s, color 0.5s ease 0s, border-color 0.5s ease 0s !important; color:#fff;}
+
+/*Head Nav*/
+.template_header_nav{float:left; width:100%; background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) top repeat-x; text-align:center;}
+.template_header_navin{ height:44px; position:relative; text-align:left;width:1000px; margin:0 auto;}
+
+.template_header_navin ul, .template_header_navin ul li{ float:left; list-style-type:none;padding:0; margin:0; line-height:44px; font-size:13px;}
+.template_header_navin ul{float:left; height:44px; width:100%}
+.template_header_navin li{ float:left; width:10%;}
+.template_header_navin li a{color:#fff; text-decoration:none; display:block;text-align:center; height:44px;   }
+.template_header_navin li a:hover{ color:#fff; text-decoration:none; background:#004a8b; cursor:pointer;transition: background-color 0.5s ease 0s, color 0.5s ease 0s, border-color 0.5s ease 0s !important;}
+.template_header_navin li.home{ background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) bottom repeat-x; width:20%;}
+.template_header_navin li.home i{ background:url(https://iwatch.sale/templates/celnovo/images/home_icon.png) no-repeat; width:17px; height:12px; display:block; float:right; margin-top:15px; margin-left:15px; margin-right:15px;}
+
+
+.template_banner{ background:#ccc url(https://iwatch.sale/templates/celnovo/images/banner_bg.jpg) right no-repeat; }
+.template_bannerin{width:1000px; margin:0 auto; }
+
+.template_service{float:left;width:100%; background:#eaeaea;}
+.template_servicin{width:1000px; margin:0 auto; }
+.template_servicin ul, 
+.template_servicin ul li{ padding:0; margin:0; list-style-type:none; text-align:left;}
+.template_servicin ul{width:100%; float:left; background:#f5f5f5}
+.template_servicin ul li{ background:url(images/services.png) no-repeat;height:70px; float:left; width:25%; position:relative;}
+.template_servicin ul li h2{ font-size:14px; font-weight:bold; color:#333;  margin:0; margin-left:70px; margin-top:15px; float:left; padding:0; }
+.template_servicin ul li p{ font-size:12px; font-weight:normal; color:#333; margin:0; padding:0; margin-left:70px;float:left; font-weight:300; }
+.template_servicin ul li span{ width:1px; height:45px; background:#ccc; position:absolute; top:15px; right:0;}
+.template_servicin ul li:hover h2, .template_servicin ul li:hover p{color:#43AD44!important; cursor:pointer;}
+.template_servicin ul li:nth-of-type(1){ background-position:22px 24px;}
+.template_servicin ul li:nth-of-type(1):hover{ background-position:22px -227px;}
+.template_servicin ul li:nth-of-type(2){ background-position:22px -40px;}
+.template_servicin ul li:nth-of-type(2):hover{ background-position:22px -291px;}
+.template_servicin ul li:nth-of-type(3){ background-position:22px -108px;}
+.template_servicin ul li:nth-of-type(3):hover{ background-position:22px -359px;}
+.template_servicin ul li:nth-of-type(4){ background-position:22px -172px;}
+.template_servicin ul li:nth-of-type(4):hover{ background-position:22px -423px;}
+
+.template_servicin ul li:nth-of-type(1) h2:after{ content:"Fast World Delivery";}
+.template_servicin ul li:nth-of-type(1) p:after{ content:"Ship to the Word";}
+.template_servicin ul li:nth-of-type(2) h2:after{ content:"Money Back Guarantee";}
+.template_servicin ul li:nth-of-type(2) p:after{ content:"Within 30 Days";}
+.template_servicin ul li:nth-of-type(3) h2:after{ content:"Best Online Support";}
+.template_servicin ul li:nth-of-type(3) p:after{ content:"Hours: 9:00am - 6:00pm";}
+.template_servicin ul li:nth-of-type(4) h2:after{ content:"Save More Money";}
+.template_servicin ul li:nth-of-type(4) p:after{ content:"Shop With Confidence";}
+
+
+.leftservice{ display:block; float:left; width:218px; height:251px; margin-bottom:13px; background:#fff url(images/left_service.png) center no-repeat;}
+
+.patemplatecategory ul, 
+.patemplatecategory ul li{ float:left; list-style-type:none; padding:0; margin:0; width:100%; background:#fff;}
+
+.patemplatecategory ul li{ cursor:pointer; background:#ccc; font-weight:bold;margin-bottom:1px;}
+.patemplatecategory ul li a{ display:block;height:30px; line-height:30px;padding-left:12px; font-size:12px;color:#333;text-decoration:none; font-weight:400;}
+.patemplatecategory ul li a:hover{ color:#000;}
+
+.patemplatecategory ul li ul li{ background:#eee;margin-bottom:0;}
+.patemplatecategory ul li ul li a{ display:block;background:url(images/list.png) 12px 10px no-repeat;height:30px; line-height:30px;padding-left:22px; font-size:12px;color:#333;text-decoration:none; font-weight:400;}
+.patemplatecategory ul li ul li a:hover{ background:#ccc url(images/list.png) 12px 10px no-repeat; color:#000;}
+
+.patemplatecategory ul li ul li ul{ background:#eee;}
+.patemplatecategory ul li ul li ul li a{ display:block;background:none; height:30px; line-height:30px;padding-left:22px; font-size:12px;color:#333;text-decoration:none; font-weight:400;}
+.patemplatecategory ul li ul li ul li a:hover{background:#ccc; color:#000;}
+
+
+.patemplate_desc{ width:100%; float:left; font-weight:300;}
+
+.patemplate_desc table{ width:100%!important}
+.patemplate_desc table td{border:1px solid #ccc;border-collapse:collapse; padding:5px;}
+
+
+/* box*/
+.patemplatebox{width:100%; float:left; margin-bottom:13px;position:relative;}
+.patemplatebox_h{ line-height:47px; height:47px;}
+.patemplatebox_h1{ line-height:35px; height:35px;background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) top repeat-x;}
+.patemplatebox_h1 .patemplatebox_title{padding:0; margin:0; font-size:13px; height:35px; color:#fff; float:left; padding-left:10px;overflow:hidden; font-weight:400;font-size:13px; }
+
+.patemplatebox_h2{ height:35px; line-height:35px;background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) top repeat-x; }
+.patemplatebox_h2 .patemplatebox_title{padding:0; margin:0; font-size:13px; height:35px; color:#fff; float:left; padding-left:10px; overflow:hidden;font-weight:400;font-size:13px;  }
+.patemplatebox_body {width:100%;height:100%;float:left; }
+.patemplatebox_bodyin{height:100%;font-size:13px;padding:10px;overflow:hidden;text-align:left;border-top:none; background:#fff;}
+.patemplatebox_bodynone{height:100%; font-size:13px;overflow:hidden; text-align:left;border-top:none;background:#fff; }
+.patemplatebox_bodynone1{height:100%; font-size:13px;overflow:hidden; text-align:left;border-top:none;border:1px solid #ccc; }
+.patemplatebox_bodyin1{height:100%;font-size:13px;padding:10px;overflow:hidden;text-align:left; background:#fff;border:1px solid #ccc;}
+.patemplatebox_bodyin2{height:100%;font-size:13px;padding:10px;overflow:hidden;text-align:left;border:1px solid #ccc;}
+
+
+.template_content_left .patemplatebox_bodynone, 
+.template_content_left .patemplatebox_bodyin{ background:#eee; /*background:#fff; border:1px solid #ccc;border-top:none;*/}
+.template_content_left .patemplatebox_bodynone1{ border:1px solid #ddd;border-top:none; text-align:center;}
+
+.template_content_right .patemplatebox_bodynone, 
+.template_content_right .patemplatebox_bodyin{ border:1px solid #ddd;border-top:none;}
+
+
+.catrgory_bg{ background:url(images/catrgory_bg.png) no-repeat; height:39px; width:100%;}
+.description_bg{ background:url(images/description_bg.png) no-repeat; height:39px; width:100%;}
+.featureitems_bg{ background:url(images/featureitems_bg.png) no-repeat; height:39px; width:100%;}
+.newsletter_bg{ background:#fff url(images/newsletter_bg.png) no-repeat; height:39px; width:100%;}
+
+.storenewsletter{ width:212px; float:left; margin-bottom:13px; border:4px solid #ffcf4e; background:#fff; padding-bottom:13px;}
+.storenewsletter h2{color:#333; text-align:center; font-size:14px; font-weight:bold;}
+.storenewsletter p{ padding:0 10px;color:#333; text-align:center; font-weight:300;}
+ a.contact_button { text-decoration:none;width:180px; height:25px; display:block; line-height:25px; margin:0 auto; background:url(images/heaer_bg.png) bottom repeat-x; text-align:center; color:#fff; text-transform:uppercase}
+
+
+/*picture box*/
+.patemplate_picture_l{ float:left; width:50%;}
+.patemplate_picture_r{ float:right; width:49%;}
+
+.template_picbody{width:100%;height:100%;float:left; }
+.template_picbodyin{height:100%;font-size:13px;padding:10px; overflow:hidden; text-align:left;background:#fff;border:1px solid #ccc;}
+.template_title{ width:100%; float:left;font-size:16px;color:#666; font-weight:bold; padding-bottom:10px;}
+
+.patemplatebox_product_title{ width:100%; float:left; line-height:30px; font-size:16px; margin-top:5px; margin-bottom:12px; text-align:center;}
+.patemplatebox_product_title span{ font-weight:bold;color:#333;}
+
+.template_icons{ width:100%; float:left; height:80px; margin-bottom:10px;border:1px solid #ccc;border-radius:4px; background:url(images/icons.png) no-repeat;}
+.template_video{width:100%; float:left; text-align:center;}
+
+.patemplateaus{ border:1px solid #006;border-radius:4px; float:left; background:url(images/aus.jpg) no-repeat; height:80px; width:100%; float:left; margin-bottom:13px;}
+
+.patemplate_table{ width:100%; float:left; border-collapse:collapse}
+.patemplate_table td{  padding:5px; border-collapse:collapse}
+.patemplate_table tr:nth-child(odd){background:#F4F4F4;}
+
+.patemplate_tablecopare{ width:100%; float:left; text-align:center; margin-top:10px;}
+
+
+.template_termtitle span{ display:block;}
+.mobile_template .selected span{ cursor:pointer; float:right; margin:8px; width:19px; height:19px; background:url(images/showhide_bg.png) 0 -8px no-repeat;}
+.mobile_template .select span{ cursor:pointer;float:right; margin:8px; width:19px; height:19px; background:url(images/showhide_bg.png) 0 -38px no-repeat;}
+
+
+
+.template_gallery_message{ padding:10px; background:#f1f1f1;border-radius:5px;}
+
+/* -------------------------------------- template setting --------------------------------------------- */ 
+
+.template_footer{background:#333; height:60px;}
+
+#template_footer{vertical-align:top;  width:100%;}
+.pastore_footer{width:100%; float:left;background:url(images/footer_bg.png) top center repeat-x;}
+.pastore_footerin{padding-top:5px; }
+
+.template_footerin{ width:1000px; margin:0 auto;}
+.footer_content_copyright{float:left; text-align:center; color:#fff; line-height:32px; font-size:12px;font-family: 'Poppins';font-weight:300;}
+.footer_content_copyright::after{content:"Copyright 2017 Ultrafasthost. All Rights Reserved.";}
+.template_footerin_right ul, .template_footerin_right ul li{ padding:0; margin:0; list-style-type:none;line-height:32px;}
+.template_footerin_right ul li{ float:left;margin-left:20px;}
+.template_footerin_right ul li a{ text-decoration:none;font-family: 'Poppins';font-weight:300;}
+
+.template_footerin_right{ float:right;}
+.template_footerin_right a{ color:#fff;}
+
+
+
+
+/*picture common*/
+.pictureslider {width: 100%;position: relative;margin: 0 auto;}
+
+.pictureslider > img { transition: all 0.5s;}
+.pictureslider label {display:block; float:left; transition: all 0.5s;opacity: 0.6;  margin-bottom:10px; cursor:pointer;display:table-cell;vertical-align:middle; border-radius:2px; background:#fff;}
+
+#preview_id1:checked ~  #preview_img_1,
+#preview_id2:checked ~  #preview_img_2,
+#preview_id3:checked ~  #preview_img_3,
+#preview_id4:checked ~  #preview_img_4,
+#preview_id5:checked ~  #preview_img_5,
+#preview_id6:checked ~  #preview_img_6,
+#preview_id7:checked ~  #preview_img_7,
+#preview_id8:checked ~  #preview_img_8,
+#preview_id9:checked ~  #preview_img_9,
+#preview_id10:checked ~  #preview_img_10,
+#preview_id11:checked ~  #preview_img_11,
+#preview_id12:checked ~  #preview_img_12 {display: block;}
+.pictureslider .picturesmall label{border:1px solid #ccc;}
+.pictureslider #preview_id1:checked ~ .picturesmall #small_label1, 
+.pictureslider #preview_id2:checked ~ .picturesmall #small_label2, 
+.pictureslider #preview_id3:checked ~ .picturesmall #small_label3, 
+.pictureslider #preview_id4:checked ~ .picturesmall #small_label4, 
+.pictureslider #preview_id5:checked ~ .picturesmall #small_label5, 
+.pictureslider #preview_id6:checked ~ .picturesmall #small_label6, 
+.pictureslider #preview_id7:checked ~ .picturesmall #small_label7, 
+.pictureslider #preview_id8:checked ~ .picturesmall #small_label8, 
+.pictureslider #preview_id9:checked ~ .picturesmall #small_label9, 
+.pictureslider #preview_id10:checked ~ .picturesmall #small_label10, 
+.pictureslider #preview_id11:checked ~ .picturesmall #small_label11, 
+.pictureslider #preview_id12:checked ~ .picturesmall #small_label12 { opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+
+.big_preview_img{  display:none}
+.pictureslider input {display: none;}
+
+.pictureslider label img { display: block;width:100%;  float:left; vertical-align:middle }
+.pictureslider label:hover {color: #fff;background:#666; cursor:pointer;}
+.pictureslider input:checked + label { border-color: #666; opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+.pictureslider input:checked ~ img { opacity: 1; transform: scale(1);}
+.pictureslider input:checked + label + img {opacity: 1; transform: scale(1); }
+
+/*picture layout1*/
+
+/*css section how many picture*/
+.pictureslider.layout1 > input:nth-of-type(1) ~ .picturesmall{width:10%; float:right;}
+.pictureslider.layout1 > input:nth-of-type(7) ~ .picturesmall{width:20%; float:right;}
+.pictureslider.layout1 > input:nth-of-type(13) ~ .picturesmall{width:20%; float:right;}
+
+.pictureslider.layout1 > input:nth-of-type(1) ~ .picturesmall  label{width:99%;margin-right:1%; }
+.pictureslider.layout1 > input:nth-of-type(7) ~ .picturesmall  label{width:43%; margin-left:4%;}
+.pictureslider.layout1 > input:nth-of-type(13) ~ .picturesmall label{width:42%; margin-left:4%;}
+
+.pictureslider.layout1 > input:nth-of-type(1) ~ .big_preview_img{width:88%;}
+.pictureslider.layout1 > input:nth-of-type(7) ~ .big_preview_img{width:79%;}
+.pictureslider.layout1 > input:nth-of-type(13) ~ .big_preview_img{width:78%;}
+
+
+/*picture layout2*/
+
+/*css section how many picture*/
+.pictureslider.layout2 > input:nth-of-type(1) ~ .picturesmall{width:10%; float:left;}
+.pictureslider.layout2 > input:nth-of-type(7) ~ .picturesmall{width:20%; float:left;}
+.pictureslider.layout2 > input:nth-of-type(13) ~ .picturesmall{width:20%; float:left;}
+
+.pictureslider.layout2 > input:nth-of-type(1) ~ .picturesmall  label{width:99%;margin-right:1%; }
+.pictureslider.layout2 > input:nth-of-type(7) ~ .picturesmall  label{width:43%; margin-left:4%;}
+.pictureslider.layout2 > input:nth-of-type(13) ~ .picturesmall label{width:42%; margin-left:4%;}
+
+.pictureslider.layout2 > input:nth-of-type(1) ~ .big_preview_img{width:88%;}
+.pictureslider.layout2 > input:nth-of-type(7) ~ .big_preview_img{width:79%;}
+.pictureslider.layout2 > input:nth-of-type(13) ~ .big_preview_img{width:78%;}
+
+
+/*picture layout3*/
+
+/*css section how many picture*/
+.pictureslider.layout3 > input:nth-of-type(1) ~ .picturesmall{width:100%; float:left;}
+.pictureslider.layout3 > input:nth-of-type(7) ~ .picturesmall{width:100%; float:left;}
+.pictureslider.layout3 > input:nth-of-type(13) ~ .picturesmall{width:100%; float:left;}
+
+.pictureslider.layout3 > input:nth-of-type(1) ~ .picturesmall  label{width:10%;margin-right:1%; }
+.pictureslider.layout3 > input:nth-of-type(7) ~ .picturesmall  label{width:10%; margin-left:1%;}
+.pictureslider.layout3 > input:nth-of-type(13) ~ .picturesmall label{width:10%; margin-left:1%;}
+
+.pictureslider.layout3 > input:nth-of-type(1) ~ .big_preview_img{width:100%;}
+.pictureslider.layout3 > input:nth-of-type(7) ~ .big_preview_img{width:100%;}
+.pictureslider.layout3 > input:nth-of-type(13) ~ .big_preview_img{width:100%;}
+
+
+/*picture layout4*/
+
+/*css section how many picture*/
+.pictureslider.layout4 > input:nth-of-type(1) ~ .picturesmall{width:100%; float:right;}
+.pictureslider.layout4 > input:nth-of-type(7) ~ .picturesmall{width:100%; float:right;}
+.pictureslider.layout4 > input:nth-of-type(13) ~ .picturesmall{width:100%; float:right;}
+
+.pictureslider.layout4 > input:nth-of-type(1) ~ .picturesmall  label{width:10%;margin-right:1%; }
+.pictureslider.layout4 > input:nth-of-type(7) ~ .picturesmall  label{width:10%; margin-left:1%;}
+.pictureslider.layout4 > input:nth-of-type(13) ~ .picturesmall label{width:10%; margin-left:1%;}
+
+.pictureslider.layout4 > input:nth-of-type(1) ~ .big_preview_img{width:100%; float:left;}
+.pictureslider.layout4 > input:nth-of-type(7) ~ .big_preview_img{width:100%;float:left;}
+.pictureslider.layout4 > input:nth-of-type(13) ~ .big_preview_img{width:100%;float:left;}
+
+
+/*picture layout5*/
+
+/*css section how many picture*/
+.pictureslider.layout5 > .picturesmall{  display:none;}
+.pictureslider.layout5 > .big_preview_img{width:48%; margin-left:1%; float:left; display:block;}
+
+
+/*picture layout6*/
+
+/*css section how many picture*/
+.pictureslider.layout6 > .picturesmall{  display:none;}
+.pictureslider.layout6 > .big_preview_img{width:100%; float:left; display:block;}
+
+
+
+/* tabs*/
+#terms{ border-top:none}
+.template_terms_content {display: none;}
+.template_terms_contentin{ padding:10px;}
+.template_terms_contentin_t{ display:none;}
+
+.template_terms_contentin_c{ width:100%; float:left; background:#fff}
+.template_terms_contentin_cin{padding:10px; text-align:left; font-weight:300;}
+.template_terms_contentin_cin p{ padding:5px 0;}
+.template_terms_contentin_cin p b{ font-weight:400;}
+
+#terms input {display: none;margin:0; padding:0}
+#terms label {display: inline-block;float:left; margin:0; width:20%; height:35px; line-height:35px; font-size:13px; font-weight:400;text-align: center;color: #fff; background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) top repeat-x; cursor:pointer;}
+
+#terms label:hover { background:url(images/heaer_bg.png) bottom repeat-x;color:#fff;transition: background-color 0.5s ease 0s, color 0.5s ease 0s, border-color 0.5s ease 0s !important;}
+#terms input:checked + label {color:#fff;background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) bottom repeat-x;}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4,
+#tab5:checked ~ #content5 {display: block;}
+
+
+
+
+#template_middle_cp ul, #template_middle_cp ul li{ padding:0; margin:0;}
+#template_middle_cp ul{font-size: 10pt;height: 100%;overflow: hidden;position: relative;vertical-align: top;width:180px; margin:0 5px;  text-align:center;text-decoration:none }
+#template_middle_cp ul .promotion_img{ display:block; text-align:center; max-height:142px; width:100%;   margin:0 auto;}
+#template_middle_cp ul .promotion_img img{border:0; vertical-align:middle; margin-bottom:10px;}
+#template_middle_cp  ul li  .promotion_title{padding:0 4px;text-align:center; height:42px;  width:100%; overflow:hidden; white-space:pre-wrap; font-size:12px;}
+#template_middle_cp  ul li  .promotion_title p{line-height:14px; padding:0; margin:0; vertical-align:middle; font-size:12px;font-weight:normal;white-space:pre-wrap;}
+#template_middle_cp  ul li  .promotion_price{width:100%; margin:3px auto 5px auto; font-size:14px; font-weight:bold;color:#f60; height:22px; line-height:22px;text-align:center;}
+#template_middle_cp a:first-child {display: block;}
+#template_middle_cp a:first-child ~ * { display: none;}
+#template_middle_cp a > img { border: 0; display: inline-block; -webkit-transition: all .3s ease-in-out;transition: all .3s ease-in-out;vertical-align: middle; }
+#template_middle_cp a{text-decoration:none}
+
+
+
+
+@media (min-width: 240px) and (max-width: 479px){
+
+    .patemplate_desc table{ width:100%!important}
+.patemplate_desc table td{border:1px solid #ccc;border-collapse:collapse; padding:5px; font-size:11px!important;word-break:break-all!important;word-wrap:break-word!important;
+}
+    
+    .top_head, .top_headin, .template_center,  #header, .template_header_navin, .template_bannerin, .template_servicin{ width:100%;}
+    .top_head, .top_headin div{ display:none;}
+    .template_servicin ul li h2{ font-size:12px; font-weight:bold; color:#333;  margin:0; margin-left:60px; margin-top:15px; padding:0; text-transform:uppercase}
+    .template_servicin ul li p{ font-size:11px; font-weight:normal; color:#333; margin:0; margin-left:60px; padding:0; font-weight:300; }
+
+    .template_header_logo{ width:220px; max-width:220px; margin:0 auto; position:absolute; left:50%; margin-left:-110px; margin-top:15px;}
+    .template_header_logo img{ max-width:220px; margin:0 auto;}
+
+    .template_header_right{ display:none;}
+    .template_header_nav{ display:none;}
+
+    .template_service{ display:none;}
+ 
+    .template_bannerin{ width:100%;}
+    .template_bannerin .template_bannerin_l{ display:none;}
+    .template_bannerin .template_bannerin_r{ width:100%;}
+
+    .template_terms_contentin{ display:none}
+
+    .template_footerin{ width:100%;}
+
+    .template_header{ height:110px; background:none;}
+
+    .template_content_left{ display:none;}
+    .template_content_right{ margin-left:0;padding-top:13px;}
+
+    .template_center{ width:100%;padding:0;}
+    .template_content{width:100%;padding:0; }
+    .template_head_right{ display:none;}
+     .footer_head, .footer_content{ display:none}
+
+    #patemplate_top_cp{display:none}
+    #patemplate_bottom_cp{ display:none}
+
+    .template_header{ background:none;}
+    .patemplatebox_bodyin img{width:100%}
+
+    .template_desbody img.fbimg{width:100%}
+
+    
+    #mobile_promotion_bottom{ width:100%; float:left; display:block}
+    #mobile_promotion_bottom ul{ padding:0; margin:0;}
+    #mobile_promotion_bottom li{line-height:25px; text-align:left;width:49%; margin-left:1%; height:200px; list-style-type:none;  text-align:center; float:left;  font-family:Arial}
+    #mobile_promotion_bottom li .promotion_img{ display:block; text-align:center; height:122px; width:118px;background:url(https://iwatch.sale/templates/celnovo/images/saleitem_bg.png) center no-repeat;  margin:0 auto;}
+    #mobile_promotion_bottom li .promotion_img img{border:0; vertical-align:middle;width:112px; max-height:116px; margin:2px;}
+    #mobile_promotion_bottom li .promotion_title{padding:0 4px;text-align:center; height:42px; overflow:hidden; line-height:14px; padding:0; margin:0; vertical-align:middle; font-size:12px;font-weight:normal;}
+    #mobile_promotion_bottom li a{ color:#000; font-size:11px; text-decoration:none; font-weight:normal; }
+    #mobile_promotion_bottom li a:hover{ color:#000; text-decoration:underline}
+    #mobile_promotion_bottom li .promotion_price{width:100%; margin:3px auto 5px auto; font-size:14px; font-weight:bold;color:#f60; height:22px; line-height:22px;text-align:center;}
+   
+     .template_bgin { background:none; padding:0 10px;}
+    .patemplate_picture_l{ float:left; width:100%;}
+    .patemplate_picture_r{ float:right; width:100%;}
+
+    #terms input {display: none;}
+    #content1,
+    #content2,
+    #content3,
+    #content4{display: block; margin-bottom:10px;}
+    #content5{display: block; }
+
+    #terms .headlabel{display:none;}
+    #terms .template_terms_contentin_c{ display:none;}
+    #terms .template_terms_content{ width:100%; float:left;}
+    #tab1:checked ~ #content1 .template_terms_contentin_c,
+    #tab2:checked ~ #content2 .template_terms_contentin_c,
+    #tab3:checked ~ #content3 .template_terms_contentin_c,
+    #tab4:checked ~ #content4 .template_terms_contentin_c,
+    #tab5:checked ~ #content5 .template_terms_contentin_c {display: block;}
+
+    #tab1:checked ~ #content1 label i,
+    #tab2:checked ~ #content2 label i,
+    #tab3:checked ~ #content3 label i,
+    #tab4:checked ~ #content4 label i,
+    #tab5:checked ~ #content5 label i {background:url(https://iwatch.sale/templates/celnovo/images/showhide_bg.png) 0 -40px no-repeat;}
+
+    #terms .template_terms_contentin_t{ display:block; width:100%!important; float:left; height:35px; line-height:35px;color:#fff; position:relative;}
+    #terms .template_terms_contentin_t span{ margin-left:10px;}
+   
+    #terms label i{ display:block; width:16px;height:16px;background:url(https://iwatch.sale/templates/celnovo/images/showhide_bg.png) 0 -10px no-repeat; position:absolute; top:10px; right:10px}
+    #terms label {display:block;width:100%; float:left; padding:0;font-weight:400;text-align: center;background:none; cursor:pointer;  text-align:left;background:url(https://iwatch.sale/templates/celnovo/images/heaer_bg.png) top repeat-x;color:#fff;} 
+    #terms label:hover {color: #fff; cursor:pointer;}
+    #terms .template_terms_contentin_cin{border-top:none;}
+
+  
+
+    .pictureslider > img { transition: all 0.5s;width:100%;}
+    .big_preview_img{  display:none; }
+    .pictureslider input {display: none;}
+    .pictureslider label {display:block; width:18%; float:left; transition: all 0.5s;opacity: 0.6; margin-right:1%; margin-top:10px; margin-bottom:0; cursor:pointer;display:table-cell;vertical-align:middle; border:1px solid #ccc;border-radius:2px; background:#fff;}
+   
+
+    .pictureslider label img { display: block;width:100%;  float:left; vertical-align:middle }
+    .pictureslider label:hover {color: #fff;background:#666; cursor:pointer;}
+    .pictureslider input:checked + label { border-color: #666; opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+    .pictureslider input:checked ~ img { opacity: 1; transform: scale(1);}
+    .pictureslider input:checked + label + img {opacity: 1; transform: scale(1); }
+
+    #preview_id1:checked ~  #preview_img_1,
+    #preview_id2:checked ~  #preview_img_2,
+    #preview_id3:checked ~  #preview_img_3,
+    #preview_id4:checked ~  #preview_img_4,
+    #preview_id5:checked ~  #preview_img_5,
+    #preview_id6:checked ~  #preview_img_6,
+    #preview_id7:checked ~  #preview_img_7,
+    #preview_id8:checked ~  #preview_img_8,
+    #preview_id9:checked ~  #preview_img_9,
+    #preview_id10:checked ~  #preview_img_10,
+    #preview_id11:checked ~  #preview_img_11,
+    #preview_id12:checked ~  #preview_img_12 {display: block;}
+    .pictureslider .picturesmall label{border:1px solid #fff;}
+    .pictureslider #preview_id1:checked ~ .picturesmall #small_label1, 
+    .pictureslider #preview_id2:checked ~ .picturesmall #small_label2, 
+    .pictureslider #preview_id3:checked ~ .picturesmall #small_label3, 
+    .pictureslider #preview_id4:checked ~ .picturesmall #small_label4, 
+    .pictureslider #preview_id5:checked ~ .picturesmall #small_label5, 
+    .pictureslider #preview_id6:checked ~ .picturesmall #small_label6, 
+    .pictureslider #preview_id7:checked ~ .picturesmall #small_label7, 
+    .pictureslider #preview_id8:checked ~ .picturesmall #small_label8, 
+    .pictureslider #preview_id9:checked ~ .picturesmall #small_label9, 
+    .pictureslider #preview_id10:checked ~ .picturesmall #small_label10, 
+    .pictureslider #preview_id11:checked ~ .picturesmall #small_label11, 
+    .pictureslider #preview_id12:checked ~ .picturesmall #small_label12 { opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+    .template_footerin_right{ display:none}
+    .footer_content_copyright{ width:100%; float:left;  text-align:center;}
+}
+
+@media (min-width: 480px) and (max-width: 797px) {
+   .top_head, .top_headin, .template_center,  #header, .template_header_navin, .template_bannerin, .template_servicin{ width:100%;}
+    .top_headin div{ display:none;}
+    .template_servicin ul li h2{ font-size:12px; font-weight:bold; color:#333;  margin:0; margin-left:60px; margin-top:15px; padding:0; text-transform:uppercase}
+    .template_servicin ul li p{ font-size:11px; font-weight:normal; color:#333; margin:0; margin-left:60px; padding:0; font-weight:300; }
+    .template_service{ display:none;}
+    .template_header_right{ }
+    .template_header_nav{ display:none;}
+
+  .template_footerin{ width:100%;}
+    .template_bannerin{ width:100%;}
+    .template_bannerin .template_bannerin_l{ display:none;}
+    .template_bannerin .template_bannerin_r{ width:100%;}
+
+    .template_terms_contentin{ display:none}
+    .template_header{ height:120px;background:none;}
+
+    .template_header_logo{ width:280px; max-width:280px; margin:0 auto; position:absolute; left:50%; margin-left:-140px;margin-top:15px;}
+    .template_header_logo img{ max-width:280px; margin:0 auto; }
+    .template_content_left{ display:none;}
+    .template_content_right{ margin-left:0; padding-top:13px;}
+    .template_center{ width:100%;padding:0;}
+    .template_content{width:100%;padding:0;}
+    .template_head_right{ display:none;}
+   
+     .footer_head, .footer_content{ display:none}
+
+    .template_desbody img.fbimg{width:100%}
+
+
+    .templatebox_tabmenu2 .tabselect a, 
+    .templatebox_tabmenu2 .tabselected a{ width:80px}
+ 
+    .patemplatebox_terms{border:1px solid #ccc; width:100%; float:left; background:url(https://iwatch.sale/templates/celnovo/images/terms_bg.jpg)  bottom repeat-x;}
+    .patemplatebox_terms_list{ float:left; width:31%; margin:0 1%;border:none;}
+    .patemplatebox_terms_list .patemplatebox_terms_cnt{ margin-left:10px; margin-right:10px;}
+    .template_bgin { background:none; padding:0 10px;}
+
+    .patemplate_picture_l{ float:left; width:100%;}
+    .patemplate_picture_r{ float:right; width:100%;}
+
+    .pagedImages {  width: 480px; }
+    .pagedImages > ul > li { width:140px;}
+    .pagedImages > ul > li:first-child{display:none}
+    .pagedImages > ul > li:last-child{display:none}
+
+
+    #tab1:checked ~ #content1 .template_terms_contentin_t,
+    #tab2:checked ~ #content2 .template_terms_contentin_t,
+    #tab3:checked ~ #content3 .template_terms_contentin_t,
+    #tab4:checked ~ #content4 .template_terms_contentin_t,
+    #tab5:checked ~ #content5 .template_terms_contentin_t{ display:none;}
+
+    .pictureslider > img { transition: all 0.5s;width:100%;}
+    .big_preview_img{  display:none}
+    .pictureslider input {display: none;}
+    .pictureslider label {display:block; width:12%; float:left; transition: all 0.5s;opacity: 0.6; margin-right:1%; margin-top:10px; margin-bottom:0; cursor:pointer;display:table-cell;vertical-align:middle; border:1px solid #ccc;border-radius:2px; background:#fff;}
+   
+
+    .pictureslider label img { display: block;width:100%;  float:left; vertical-align:middle }
+    .pictureslider label:hover {color: #fff;background:#666; cursor:pointer;}
+    .pictureslider input:checked + label { border-color: #666; opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+    .pictureslider input:checked ~ img { opacity: 1; transform: scale(1);}
+    .pictureslider input:checked + label + img {opacity: 1; transform: scale(1); }
+
+    #preview_id1:checked ~  #preview_img_1,
+    #preview_id2:checked ~  #preview_img_2,
+    #preview_id3:checked ~  #preview_img_3,
+    #preview_id4:checked ~  #preview_img_4,
+    #preview_id5:checked ~  #preview_img_5,
+    #preview_id6:checked ~  #preview_img_6,
+    #preview_id7:checked ~  #preview_img_7,
+    #preview_id8:checked ~  #preview_img_8,
+    #preview_id9:checked ~  #preview_img_9,
+    #preview_id10:checked ~  #preview_img_10,
+    #preview_id11:checked ~  #preview_img_11,
+    #preview_id12:checked ~  #preview_img_12 {display: block;}
+    .pictureslider .picturesmall label{border:1px solid #fff;}
+    .pictureslider #preview_id1:checked ~ .picturesmall #small_label1, 
+    .pictureslider #preview_id2:checked ~ .picturesmall #small_label2, 
+    .pictureslider #preview_id3:checked ~ .picturesmall #small_label3, 
+    .pictureslider #preview_id4:checked ~ .picturesmall #small_label4, 
+    .pictureslider #preview_id5:checked ~ .picturesmall #small_label5, 
+    .pictureslider #preview_id6:checked ~ .picturesmall #small_label6, 
+    .pictureslider #preview_id7:checked ~ .picturesmall #small_label7, 
+    .pictureslider #preview_id8:checked ~ .picturesmall #small_label8, 
+    .pictureslider #preview_id9:checked ~ .picturesmall #small_label9, 
+    .pictureslider #preview_id10:checked ~ .picturesmall #small_label10, 
+    .pictureslider #preview_id11:checked ~ .picturesmall #small_label11, 
+    .pictureslider #preview_id12:checked ~ .picturesmall #small_label12 { opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+
+     #mobile_promotion_bottom{ width:100%; float:left; display:block}
+    #mobile_promotion_bottom ul{ padding:0; margin:0;}
+    #mobile_promotion_bottom li{line-height:25px; text-align:left;width:32%; margin-left:1%; height:210px; list-style-type:none;  text-align:center; float:left;  font-family:Arial}
+    #mobile_promotion_bottom li .promotion_img{ display:block; text-align:center; height:126px; width:128px;background:url(https://iwatch.sale/templates/celnovo/images/saleitem_bg.png) center no-repeat;  margin:0 auto;}
+    #mobile_promotion_bottom li .promotion_img img{border:0; vertical-align:middle;width:112px; max-height:116px; margin:2px;}
+    #mobile_promotion_bottom li .promotion_title{padding:0 4px;text-align:center; height:42px; overflow:hidden; line-height:14px; padding:0; margin:0; vertical-align:middle; font-size:12px;font-weight:normal;}
+    #mobile_promotion_bottom li a{ color:#000; font-size:11px; text-decoration:none; font-weight:normal; }
+    #mobile_promotion_bottom li a:hover{ color:#000; text-decoration:underline}
+    #mobile_promotion_bottom li .promotion_price{width:100%; margin:3px auto 5px auto; font-size:14px; font-weight:bold;color:#f60; height:22px; line-height:22px;text-align:center;}
+   .template_footerin_right{ display:none}
+    .footer_content_copyright{ width:100%; float:left;  text-align:center;}
+}                                                  
+@media (min-width: 797px) and (max-width: 1100px){
+    .template_header_navin li.home i{ display:none;}
+    .top_head, .top_headin, .template_center,  #header, .template_header_navin, .template_bannerin, .template_servicin{ width:100%;}
+    .top_headin div{ display:none;}
+    .template_servicin ul li h2{ font-size:12px; font-weight:bold; color:#333;  margin:0; margin-left:60px; margin-top:15px; padding:0; text-transform:uppercase}
+    .template_servicin ul li p{ font-size:11px; font-weight:normal; color:#333; margin:0; margin-left:60px; padding:0; font-weight:300; }
+
+     .template_footerin{ width:100%;}
+    
+    .template_header_right{ display:none;}
+ 
+    .template_bannerin{ width:100%;}
+    .template_bannerin .template_bannerin_l{ display:none;}
+    .template_bannerin .template_bannerin_r{ width:100%;}
+
+    .template_terms_contentin{ display:none}
+
+    .template_content_left{ display:none;} 
+    .template_content_right{ margin-left:0; padding-top:13px;}
+
+    .template_center{ width:100%}
+    .template_content{width:100%; padding:0;}
+   
+    .footer_head, .footer_content{ display:none}
+  
+    .templatebox_tabmenu2 .tabselect a, 
+    .templatebox_tabmenu2 .tabselected a{ width:100px}
+   
+    .template_head_right{float:right; height:100px;  position:relative; display:block; text-align:right;margin-right:10px; }
+
+    .patemplatebox_terms{border:1px solid #ccc; width:100%; float:left; background:url(https://iwatch.sale/templates/celnovo/images/terms_bg.jpg) bottom repeat-x;}
+    .patemplatebox_terms_list{ float:left; width:31%; margin:0 1%;border:none;}
+    .patemplatebox_terms_list .patemplatebox_terms_cnt{ margin-left:10px; margin-right:10px;}
+    .template_bgin { background:none; padding:0 10px;}
+
+
+
+    #tab1:checked ~ #content1 .template_terms_contentin_t,
+    #tab2:checked ~ #content2 .template_terms_contentin_t,
+    #tab3:checked ~ #content3 .template_terms_contentin_t,
+    #tab4:checked ~ #content4 .template_terms_contentin_t,
+    #tab5:checked ~ #content5 .template_terms_contentin_t{ display:none;}
+
+
+    .pictureslider > img { transition: all 0.5s;width:100%;}
+
+   .picturesmall{ width:100%; float:right; margin-top:10px;}
+    .big_preview_img{  display:none}
+    .pictureslider input {display: none;}
+    .pictureslider label {display:block; width:11%; margin-right:1%; float:left; transition: all 0.5s;opacity: 0.6;  margin-bottom:10px; cursor:pointer;display:table-cell;vertical-align:middle; border-radius:2px; background:#fff;}
+
+
+    .pictureslider label img { display: block;width:100%;  float:left; vertical-align:middle }
+    .pictureslider label:hover {color: #fff;background:#666; cursor:pointer;}
+    .pictureslider .picturesmall label{border:1px solid #fff;}
+    .pictureslider #preview_id1:checked ~ .picturesmall #small_label1, 
+    .pictureslider #preview_id2:checked ~ .picturesmall #small_label2, 
+    .pictureslider #preview_id3:checked ~ .picturesmall #small_label3, 
+    .pictureslider #preview_id4:checked ~ .picturesmall #small_label4, 
+    .pictureslider #preview_id5:checked ~ .picturesmall #small_label5, 
+    .pictureslider #preview_id6:checked ~ .picturesmall #small_label6, 
+    .pictureslider #preview_id7:checked ~ .picturesmall #small_label7, 
+    .pictureslider #preview_id8:checked ~ .picturesmall #small_label8, 
+    .pictureslider #preview_id9:checked ~ .picturesmall #small_label9, 
+    .pictureslider #preview_id10:checked ~ .picturesmall #small_label10, 
+    .pictureslider #preview_id11:checked ~ .picturesmall #small_label11, 
+    .pictureslider #preview_id12:checked ~ .picturesmall #small_label12 { opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+
+    .pictureslider input:checked ~ img { opacity: 1; transform: scale(1);}
+    .pictureslider input:checked + label + img {opacity: 1; transform: scale(1); }
+
+    #preview_id1:checked ~  #preview_img_1,
+    #preview_id2:checked ~  #preview_img_2,
+    #preview_id3:checked ~  #preview_img_3,
+    #preview_id4:checked ~  #preview_img_4,
+    #preview_id5:checked ~  #preview_img_5,
+    #preview_id6:checked ~  #preview_img_6,
+    #preview_id7:checked ~  #preview_img_7,
+    #preview_id8:checked ~  #preview_img_8,
+    #preview_id9:checked ~  #preview_img_9,
+    #preview_id10:checked ~  #preview_img_10,
+    #preview_id11:checked ~  #preview_img_11,
+    #preview_id12:checked ~  #preview_img_12 {display: block;}
+
+      #mobile_promotion_bottom{ width:100%; float:left; display:block}
+    #mobile_promotion_bottom ul{ padding:0; margin:0;}
+    #mobile_promotion_bottom li{line-height:25px; text-align:left;width:32%; margin-left:1%; height:230px; list-style-type:none;  text-align:center; float:left;  font-family:Arial}
+    #mobile_promotion_bottom li .promotion_img{ display:block; text-align:center; height:150px; width:142px; margin:0 auto;}
+    #mobile_promotion_bottom li .promotion_img img{border:0; vertical-align:middle;width:142px; max-height:142px; margin:2px;}
+    #mobile_promotion_bottom li .promotion_title{padding:0 4px;text-align:center; height:42px; overflow:hidden; line-height:14px; padding:0; margin:0; vertical-align:middle; font-size:12px;font-weight:normal;}
+    #mobile_promotion_bottom li a{ color:#000; font-size:11px; text-decoration:none; font-weight:normal; }
+    #mobile_promotion_bottom li a:hover{ color:#000; text-decoration:underline}
+    #mobile_promotion_bottom li .promotion_price{width:100%; margin:3px auto 5px auto; font-size:14px; font-weight:bold;color:#f60; height:22px; line-height:22px;text-align:center;}
+   
+    .template_footerin_right{ display:none}
+    .footer_content_copyright{ width:100%; float:left;  text-align:center;}
+
+}
+@media (min-width: 1100px){
+
+    #mobile_promotion_bottom{ display:none}
+   .template_banner{  background-size:100%;}
+    .patemplatebox_terms{border:1px solid #ccc; width:100%; float:left; background:url(https://iwatch.sale/templates/celnovo/images/terms_bg.jpg)  bottom repeat-x;}
+    .patemplatebox_terms_list{ float:left; width:31%; margin:0 1%;border:none;}
+    .patemplatebox_terms_list .patemplatebox_terms_cnt{ margin-left:10px; margin-right:10px;}
+
+    #tab1:checked ~ #content1 .template_terms_contentin_t,
+    #tab2:checked ~ #content2 .template_terms_contentin_t,
+    #tab3:checked ~ #content3 .template_terms_contentin_t,
+    #tab4:checked ~ #content4 .template_terms_contentin_t,
+    #tab5:checked ~ #content5 .template_terms_contentin_t{ display:none;}
+
+
+    .pictureslider > img { transition: all 0.5s;}
+
+    .picturesmall{ width:100%; float:right; margin-top:10px;}
+    .big_preview_img{  display:none; max-width:720px; margin:0 auto;}
+    .pictureslider input {display: none;}
+    .pictureslider label {display:block; width:11%; margin-right:1%; float:left; transition: all 0.5s;opacity: 0.6;  margin-bottom:10px; cursor:pointer;display:table-cell;vertical-align:middle; border-radius:2px; background:#fff;}
+
+
+    .pictureslider label img { display: block;width:100%;  float:left; vertical-align:middle }
+    .pictureslider label:hover {color: #fff;background:#666; cursor:pointer;}
+    .pictureslider .picturesmall label{border:1px solid #fff;}
+    .pictureslider #preview_id1:checked ~ .picturesmall #small_label1, 
+    .pictureslider #preview_id2:checked ~ .picturesmall #small_label2, 
+    .pictureslider #preview_id3:checked ~ .picturesmall #small_label3, 
+    .pictureslider #preview_id4:checked ~ .picturesmall #small_label4, 
+    .pictureslider #preview_id5:checked ~ .picturesmall #small_label5, 
+    .pictureslider #preview_id6:checked ~ .picturesmall #small_label6, 
+    .pictureslider #preview_id7:checked ~ .picturesmall #small_label7, 
+    .pictureslider #preview_id8:checked ~ .picturesmall #small_label8, 
+    .pictureslider #preview_id9:checked ~ .picturesmall #small_label9, 
+    .pictureslider #preview_id10:checked ~ .picturesmall #small_label10, 
+    .pictureslider #preview_id11:checked ~ .picturesmall #small_label11, 
+    .pictureslider #preview_id12:checked ~ .picturesmall #small_label12 { opacity: 1;border:1px solid #333;border-radius:2px; background:#fff;}
+
+    .pictureslider input:checked ~ img { opacity: 1; transform: scale(1);}
+    .pictureslider input:checked + label + img {opacity: 1; transform: scale(1); }
+
+    #preview_id1:checked ~  #preview_img_1,
+    #preview_id2:checked ~  #preview_img_2,
+    #preview_id3:checked ~  #preview_img_3,
+    #preview_id4:checked ~  #preview_img_4,
+    #preview_id5:checked ~  #preview_img_5,
+    #preview_id6:checked ~  #preview_img_6,
+    #preview_id7:checked ~  #preview_img_7,
+    #preview_id8:checked ~  #preview_img_8,
+    #preview_id9:checked ~  #preview_img_9,
+    #preview_id10:checked ~  #preview_img_10,
+    #preview_id11:checked ~  #preview_img_11,
+    #preview_id12:checked ~  #preview_img_12 {display: block;}
+
+
+}
+
+.template_terms_contentin_cin { font-size:13px;text-align:left;border:1px solid #ccc;border-top:none;}
+.template_terms_contentin_cin p{ padding:0; margin:0;}
+.template_terms_contentin_cin ul, 
+.template_terms_contentin_cin ul li{  list-style-type:none; padding:0; margin:0; list-style-type:none;text-align:left;}
+.template_terms_contentin_cin ul{ padding-bottom:10px;}
+.template_terms_contentin_cin ul li{  background:url(https://iwatch.sale/templates/celnovo/images/store_category_menu.png) 0px 9px no-repeat; line-height:24px; padding-left:14px; font-size:13px;text-align:left;}
+.template_terms_contentin_cin h2{ font-weight:400;font-family: 'Poppins'; padding:0 0; margin:0; font-size:14px;}
+
+.template_terms_contentin_cin ul.ul1{ padding-bottom:10px;}
+.template_terms_contentin_cin ul.ul1 li{  background:url(https://iwatch.sale/templates/celnovo/images/store_category_menu.png) 0 10px no-repeat; line-height:24px; padding-left:14px; font-size:13px;text-align:left;}
+
+.template_terms_contentin_cin ol{ margin:0; padding:0 15px;text-align:left;}
+.template_terms_contentin_cin ol li{line-height:23px; padding-left:5px; font-size:13px;text-align:left;}
+
+.patemplate_links, .patemplate_links li{ padding:0; margin:0; list-style-type:none;}
+.patemplate_links li a{ background:url(https://iwatch.sale/templates/celnovo/images/icons1.png) left no-repeat; padding-left:30px; display:block; line-height:30px; text-decoration:none;color:#333;}
+.patemplate_links li a:hover{ text-decoration:none; cursor:pointer;color:#f60;}
+.patemplate_links li a.visit{ background-position:0 0;}
+.patemplate_links li a.email{ background-position:0 -35px;}
+.patemplate_links li a.view{ background-position:0 -73px;}
+.patemplate_links li a.about{ background-position:0 -110px;}
+.patemplate_links li a.addto{ background-position:0 -145px;}
+
+
+.content_txt::after {content:"â€œPlease give us five-star feedback, if you accept our products and services, thank you very much!â€";}
+
+.patemplate_links .visit::after{content:"Visit Our Store";}
+.patemplate_links .email::after{content:"Email Us";}
+.patemplate_links .view::after{content:"View Feedback";}
+.patemplate_links .about::after{content:"About Us";}
+.patemplate_links .addto::after{content:"Add to Favorite Sellers";}
+
+
+
+
+#pod_slider_v{ width:176px; margin:0 auto;}
+.pod_slider_v{ padding:40px 0; position: relative; font-family:Arial;}
+ .productslider { font-size: .1px;margin: 0 auto;overflow-x: auto;overflow-y: hidden;white-space: nowrap;width:100%;height:880px;}
+/* fallback overdrive */
+head ~ body:nth-of-type(1):nth-last-of-type(1) .productslider {overflow: hidden; padding: 0;}
+.productslider > ul { padding:0;text-align: center;-webkit-transition: all .5s ease-in-out; transition: all .5s ease-in-out;width:200px; height:880px;}
+
+.productslider > ul > li {display: inline-block;font-size: 10pt;height:220px;overflow: hidden;position: relative;vertical-align: top;width:100%;margin:0 auto; float:left;  text-align:center;text-decoration:none }
+
+.productslider > ul > li a{ display:block; width:170px; height:214px;}
+
+.productslider > input {display: none;}
+.productslider > label {color: #333; cursor: pointer;  display: block;width:30px; height:30px;overflow: hidden;position: absolute;text-align: center; visibility: hidden; z-index:9999; background:url(https://iwatch.sale/templates/celnovo/images/default.png)  no-repeat;}
+.productslider > label:before {  display: block;  font-size: 20pt;  height: 100%;  position: absolute;   width: 30px;}
+
+.productslider > input:nth-of-type(1):checked ~ ul:nth-of-type(1) { margin-top: 0;  }
+.productslider > input:nth-of-type(2):checked ~ ul:nth-of-type(1) { margin-top: -880px; }
+.productslider > input:nth-of-type(3):checked ~ ul:nth-of-type(1) { margin-top: -1760px; }
+
+.productslider > input:nth-of-type(1):checked ~ label:nth-last-of-type(1),
+.productslider > input:nth-of-type(2):checked ~ label:nth-of-type(1),
+.productslider > input:nth-of-type(3):checked ~ label:nth-of-type(2),
+.productslider > input:nth-of-type(4):checked ~ label:nth-of-type(3),
+.productslider > input:nth-of-type(5):checked ~ label:nth-of-type(4),
+.productslider > input:nth-of-type(6):checked ~ label:nth-of-type(5),
+.productslider > input:nth-of-type(7):checked ~ label:nth-of-type(6),
+.productslider > input:nth-of-type(8):checked ~ label:nth-of-type(7),
+.productslider > input:nth-of-type(9):checked ~ label:nth-of-type(8) { left:50%; margin-left:-15px; top:5px; visibility: visible; background-position: 0 0; }
+.productslider > input:nth-of-type(1):checked ~ label:nth-last-of-type(1):hover,
+.productslider > input:nth-of-type(2):checked ~ label:nth-of-type(1):hover,
+.productslider > input:nth-of-type(3):checked ~ label:nth-of-type(2):hover,
+.productslider > input:nth-of-type(4):checked ~ label:nth-of-type(3):hover,
+.productslider > input:nth-of-type(5):checked ~ label:nth-of-type(4):hover,
+.productslider > input:nth-of-type(6):checked ~ label:nth-of-type(5):hover,
+.productslider > input:nth-of-type(7):checked ~ label:nth-of-type(6):hover,
+.productslider > input:nth-of-type(8):checked ~ label:nth-of-type(7):hover,
+.productslider > input:nth-of-type(9):checked ~ label:nth-of-type(8):hover{ background-position:-30px 0;} 
+
+.productslider > input:nth-of-type(1):checked ~ label:nth-of-type(2),
+.productslider > input:nth-of-type(2):checked ~ label:nth-of-type(3),
+.productslider > input:nth-of-type(3):checked ~ label:nth-of-type(4),
+.productslider > input:nth-of-type(4):checked ~ label:nth-of-type(5),
+.productslider > input:nth-of-type(5):checked ~ label:nth-of-type(6),
+.productslider > input:nth-of-type(6):checked ~ label:nth-of-type(7),
+.productslider > input:nth-of-type(7):checked ~ label:nth-of-type(8),
+.productslider > input:nth-of-type(8):checked ~ label:nth-of-type(9),
+.productslider > input:nth-last-of-type(1):checked ~ label:nth-of-type(1) { right:50%; margin-right:-15px;bottom:5px; visibility: visible; background-position:0 -30px;  }
+.productslider > input:nth-of-type(1):checked ~ label:nth-of-type(2):hover,
+.productslider > input:nth-of-type(2):checked ~ label:nth-of-type(3):hover,
+.productslider > input:nth-of-type(3):checked ~ label:nth-of-type(4):hover,
+.productslider > input:nth-of-type(4):checked ~ label:nth-of-type(5):hover,
+.productslider > input:nth-of-type(5):checked ~ label:nth-of-type(6):hover,
+.productslider > input:nth-of-type(6):checked ~ label:nth-of-type(7):hover,
+.productslider > input:nth-of-type(7):checked ~ label:nth-of-type(8):hover,
+.productslider > input:nth-of-type(8):checked ~ label:nth-of-type(9):hover,
+.productslider > input:nth-last-of-type(1):checked ~ label:nth-of-type(1):hover{ background-position:-30px -30px;} 
+
+
+.productslider > ul > li:target {  background: rgba(0, 0, 0, .8);  cursor: default;  height: 100%;  font-size: 12pt; left: 0; line-height: 125%; overflow: auto;  position: fixed;  top: 0;   width: 100%;  white-space: normal; z-index: 2;}
+.productslider > ul > li:target > a:first-child { display: inline;}
+.productslider > ul > li:target > a:first-child ~ * {background: #FFF; border-radius: 2em;  display: block; margin: 1em auto;  padding: 1.5em; text-align: left; width: 30em; }
+.productslider > ul > li:target > a:first-child > img {margin: 1em; opacity: 1;max-height: 400px; max-width: 400px; -webkit-transition: none; transition: none;}
+
+
+.productslider ul:nth-of-type(1) li:nth-child(1) a{background:url(https://img1.crossitems.com/items/000068624/0.png) 50% 50% no-repeat;}
+.productslider ul:nth-of-type(1) li:nth-child(2) a{background:url(https://img1.crossitems.com/items/000068624/1.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(1) li:nth-child(3) a{background:url(https://img1.crossitems.com/items/000068624/2.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(1) li:nth-child(4) a{background:url(https://img1.crossitems.com/items/000068624/3.png) 50% 50% no-repeat}
+
+.productslider ul:nth-of-type(2) li:nth-child(1) a{background:url(https://img1.crossitems.com/items/000068624/4.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(2) li:nth-child(2) a{background:url(https://img1.crossitems.com/items/000068624/5.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(2) li:nth-child(3) a{background:url(https://img1.crossitems.com/items/000068624/6.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(2) li:nth-child(4) a{background:url(https://img1.crossitems.com/items/000068624/7.png) 50% 50% no-repeat}
+
+.productslider ul:nth-of-type(3) li:nth-child(1) a{background:url(https://img1.crossitems.com/items/000068624/8.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(3) li:nth-child(2) a{background:url(https://img1.crossitems.com/items/000068624/9.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(3) li:nth-child(3) a{background:url(https://img1.crossitems.com/items/000068624/10.png) 50% 50% no-repeat}
+.productslider ul:nth-of-type(3) li:nth-child(4) a{background:url(https://img1.crossitems.com/items/000068624/11.png) 50% 50% no-repeat}
+
+
+
+
+.items a:nth-child(1){background:url(https://img1.crossitems.com/items/000068624/0.png) 50% 50% no-repeat;}
+.items a:nth-child(2){background:url(https://img1.crossitems.com/items/000068624/1.png) 50% 50% no-repeat}
+.items a:nth-child(3){background:url(https://img1.crossitems.com/items/000068624/2.png) 50% 50% no-repeat;}
+.items a:nth-child(4){background:url(https://img1.crossitems.com/items/000068624/3.png) 50% 50% no-repeat; }
+
+.items a:nth-child(5){background:url(https://img1.crossitems.com/items/000068624/4.png) 50% 50% no-repeat}
+.items a:nth-child(6){background:url(https://img1.crossitems.com/items/000068624/5.png) 50% 50% no-repeat}
+.items a:nth-child(7){background:url(https://img1.crossitems.com/items/000068624/6.png) 50% 50% no-repeat;}
+.items a:nth-child(8){background:url(https://img1.crossitems.com/items/000068624/7.png) 50% 50% no-repeat;}
+
+.items a:nth-child(9){background:url(https://img1.crossitems.com/items/000068624/8.png) 50% 50% no-repeat}
+.items a:nth-child(10){background:url(https://img1.crossitems.com/items/000068624/9.png) 50% 50% no-repeat}
+.items a:nth-child(11){background:url(https://img1.crossitems.com/items/000068624/10.png) 50% 50% no-repeat;}
+.items a:nth-child(12){background:url(https://img1.crossitems.com/items/000068624/11.png) 50% 50% no-repeat;}
+.items a:nth-child(13){background:url(https://img1.crossitems.com/items/000068624/12.png) 50% 50% no-repeat}
+.items a:nth-child(14){background:url(https://img1.crossitems.com/items/000068624/13.png) 50% 50% no-repeat}
+.items a:nth-child(15){background:url(https://img1.crossitems.com/items/000068624/14.png) 50% 50% no-repeat;}
+
+@media (min-width: 240px) and (max-width: 479px) {
+    .items a{ display:block; width:100%;  height:214px;border:1px solid #eee; float:left;margin-bottom:10px;}
+}
+@media (min-width: 480px) and (max-width: 797px) {
+    .items a{ display:block; width:48%; margin-right:1%; height:214px;border:1px solid #eee; float:left;margin-bottom:10px;}
+    .items a:nth-child(2n){ margin-right:0; float:right;}
+}
+@media (min-width: 797px) and (max-width: 979px) {
+    .items a{ display:block; width:31.9%; margin-right:1%; height:214px;border:1px solid #eee; float:left;margin-bottom:10px;}
+    .items a:nth-child(3n){ margin-right:0;}
+}
+@media (min-width: 979px) and (max-width: 1100px) {
+    .items a{ display:block; width:23.9%; margin-right:1%; height:214px;border:1px solid #eee; float:left;margin-top:7px;}
+    .items a:nth-child(4n){ margin-right:0;}
+}
+@media (min-width: 1100px) {
+    .items a{ display:block; width:18.9%; margin-right:1%; height:214px;border:1px solid #eee; float:left;margin-top:7px;}
+    .items a:nth-child(5n){ margin-right:0;}
+}
